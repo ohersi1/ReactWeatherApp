@@ -5,6 +5,9 @@ This is a simple weather app coded in React here is a screenshot of the page:
 ![Screenshot of Weather App Website](./src/assets/WeatherApp.png)
 
 
+Here is the live link: https://osmanweatherapp.netlify.app/
+
+
 Things I learned and practiced in this project:
 
 - Ternary Operator.
